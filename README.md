@@ -1,0 +1,2 @@
+# gitpractise
+git practise purpose 
